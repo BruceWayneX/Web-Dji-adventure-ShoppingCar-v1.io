@@ -2,7 +2,7 @@
 DJI drone accessories purchase website with shoppingcar functionality
 https://brucewaynex.github.io/Web-Dji-adventure-ShoppingCar-v1.io/
 
-¡Bienvenido a DroneGear Emporium, tu destino definitivo para accesorios de drones de alta calidad! Esta emocionante plataforma de comercio electrónico, creada con HTML, CSS y JavaScript, ofrece una experiencia de compra en línea fluida y cautivadora para entusiastas y profesionales de drones por igual.
+¡Bienvenido a Drone Dji-Adventure, tu destino definitivo para accesorios de drones de alta calidad! Esta emocionante plataforma de comercio electrónico, creada con HTML, CSS y JavaScript, ofrece una experiencia de compra en línea fluida y cautivadora para entusiastas y profesionales de drones por igual.
 
 PREVIEW
 
